@@ -1,13 +1,9 @@
 # Site settings
-name: Johanna Nelson
-email: johannanelson99@gmail.com
+name: Edwin E. Exemplar
+email: edwin+contactme@someemail.com
 #canonical_url: https://edwinexemplar.com
-<<<<<<< HEAD
-keywords: "Software Engineering Intern, Java, Python"
-=======
-keywords: "Software Engineer Intern, Python, Java"
->>>>>>> origin/master
-skills: "Computer Science Student at Columbia University"
+keywords: "Software Engineer, Python, Ruby, Machine Learning, Deep Learning, Startups, Agile, Pair Programming"
+skills: "Senior Software Engineer in Seattle, WA (Fictitious)"
 baseurl:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -35,8 +31,7 @@ color:
   section-tout: eaf1f1
 
 
+
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-theme: jekyll-theme-cayman
