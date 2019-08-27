@@ -2,7 +2,11 @@
 name: Johanna Nelson
 email: johannanelson99@gmail.com
 #canonical_url: https://edwinexemplar.com
+<<<<<<< HEAD
 keywords: "Software Engineering Intern, Java, Python"
+=======
+keywords: "Software Engineer Intern, Python, Java"
+>>>>>>> origin/master
 skills: "Computer Science Student at Columbia University"
 baseurl:
 
@@ -29,7 +33,6 @@ color:
   secondary: 285172
   secondary-dark: 29455b
   section-tout: eaf1f1
-
 
 
 # Build settings
