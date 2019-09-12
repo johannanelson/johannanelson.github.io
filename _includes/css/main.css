@@ -319,6 +319,18 @@ section.tout {
     background: #fff;
 }
 
+.btn-common, .btn-common:active, .btn-common:focus {
+  color: #EB586F;
+  border: 2px solid #EB586F;
+  background: transparent;
+}
+
+.btn-common:hover {
+  color: #fff;
+  background: #EB586F;
+  border: 2px solid #EB586F;
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
