@@ -301,7 +301,7 @@ section.tout {
     }
 }
 
-/* .btn-outline {
+.btn-outline {
     margin-top: 15px;
     border: solid 2px #fff;
     font-size: 20px;
@@ -317,95 +317,6 @@ section.tout {
     border: solid 2px #fff;
     color: #{{ site.color.primary }};
     background: #fff;
-}
- */
-
- .btn {
-  font-weight: 400;
-  font-size: 14px;
-  letter-spacing: 0px;
-  -moz-transition: 0.2s ease-in;
-  -o-transition: 0.2s ease-in;
-  -webkit-transition: 0.2s ease-in;
-  -ms-transition: 0.2s ease-in;
-  transition: 0.2s ease-in;
-  border-radius: 0;
-  padding: 9px 10px;
-}
-
-.btn span {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.btn:hover {
-  background: transparent;
-  cursor: pointer;
-}
-
-.btn-xl {
-  font-size: 20px;
-  padding: 9px 10px;
-}
-
-.btn-lg {
-  font-size: 15px;
-  padding: 10px 32px;
-}
-
-.btn-sm {
-  font-size: 12px;
-  padding: 7px 6px;
-}
-
-.btn-xs {
-  font-size: 10px;
-  padding: 5px 8px;
-}
-
-.btn-rounded {
-  border-radius: 4px !important;
-}
-
-.btn-pill {
-  border-radius: 50px !important;
-}
-
-.btn-link {
-  color: #EB586F;
-}
-
-.btn-link:hover {
-  color: #D14E63;
-  text-decoration: none;
-}
-
-.btn-link:focus {
-  color: #D14E63;
-  text-decoration: none;
-}
-
-.btn-common, .btn-common:active, .btn-common:focus {
-  color: #EB586F;
-  border: 2px solid #EB586F;
-  background: transparent;
-}
-
-.btn-common:hover {
-  color: #fff;
-  background: #EB586F;
-  border: 2px solid #EB586F;
-}
-
-.btn-border {
-  border: 2px solid #fff;
-  color: #fff;
-}
-
-.btn-border:hover {
-  background: rgba(255, 255, 255, 0.2);
-  color: #ffffff;
-  border-color: #ffffff;
 }
 
 
