@@ -1521,6 +1521,160 @@ figure {
   transform: translateY(0px);
 }
 
+/* Default Button */
+.btn-common, .btn-common:active, .btn-common:focus {
+  color: #EB586F;
+  border: 2px solid #EB586F;
+  background: transparent;
+}
+
+.btn-common:hover {
+  color: #fff;
+  background: #EB586F;
+  border: 2px solid #EB586F;
+}
+
+.btn-border {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn-border:hover {
+  background: rgba(255, 255, 255, 0.2);
+  color: #ffffff;
+  border-color: #ffffff;
+}
+
+.btn-radius {
+  border-radius: 30px;
+}
+
+.btn-filled {
+  background: #EB586F;
+  border: 2px solid #EB586F;
+  color: #fff;
+}
+
+.btn-filled:hover {
+  background: #D14E63;
+}
+
+.btn-default-filled, .btn-default-filled:active, .btn-default-filled:focus {
+  color: #fff;
+  background: #EB586F;
+  border: 2px solid #EB586F;
+}
+
+.btn-default-filled:hover {
+  color: #fff;
+  background: #D14E63;
+  border: 2px solid #D14E63;
+}
+
+/* / End Default Button */
+/* Success Button */
+.btn-success, .btn-success:active, .btn-success:focus {
+  color: #87c056;
+  border: 2px solid #87c056;
+  background: transparent;
+}
+
+.btn-success:hover {
+  color: #fff;
+  background: #87c056;
+  border: 2px solid #87c056;
+}
+
+.btn-success-filled, .btn-success-filled:active, .btn-success-filled:focus {
+  color: #fff;
+  background: #87c056;
+  border: 2px solid #87c056;
+}
+
+.btn-success-filled:hover {
+  color: #fff;
+  background: #74a44a;
+  border: 2px solid #74a44a;
+}
+
+/* End Success Button */
+/* Info Button */
+.btn-info, .btn-info:active, .btn-info:focus {
+  color: #4da5e2;
+  border: 2px solid #4da5e2;
+  background: transparent;
+}
+
+.btn-info:hover {
+  color: #fff;
+  background: #4da5e2;
+  border: 2px solid #4da5e2;
+}
+
+.btn-info-filled, .btn-info-filled:active, .btn-info-filled:focus {
+  color: #fff;
+  background: #4da5e2;
+  border: 2px solid #4da5e2;
+}
+
+.btn-info-filled:hover {
+  color: #fff;
+  background: #428fc4;
+  border: 2px solid #428fc4;
+}
+
+/* End Info Button */
+/* Warning Button */
+.btn-warning, .btn-warning:active, .btn-warning:focus {
+  color: #ffcc66;
+  border: 2px solid #ffcc66;
+  background: transparent;
+}
+
+.btn-warning:hover {
+  color: #fff;
+  background: #ffcc66;
+  border: 2px solid #ffcc66;
+}
+
+.btn-warning-filled, .btn-warning-filled:active, .btn-warning-filled:focus {
+  color: #fff;
+  background: #ffcc66;
+  border: 2px solid #ffcc66;
+}
+
+.btn-warning-filled:hover {
+  color: #fff;
+  background: #e1b459;
+  border: 2px solid #e1b459;
+}
+
+/* End Warning Button */
+/* Danger Button */
+.btn-danger, .btn-danger:active, .btn-danger:focus {
+  color: #ec7160;
+  border: 2px solid #ec7160;
+  background: transparent;
+}
+
+.btn-danger:hover {
+  color: #fff;
+  background: #ec7160;
+  border: 2px solid #ec7160;
+}
+
+.btn-danger-filled, .btn-danger-filled:active, .btn-danger-filled:focus {
+  color: #fff;
+  background: #ec7160;
+  border: 2px solid #ec7160;
+}
+
+.btn-danger-filled:hover {
+  color: #fff;
+  background: #cd6254;
+  border: 2px solid #cd6254;
+}
+
 header img.profile-img {
     max-width: 240px;
     border-radius: 50%;
