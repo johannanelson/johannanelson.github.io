@@ -437,6 +437,12 @@ footer .footer-below {
     outline: 0;
 }
 
+#portfolio .mix {
+  padding: 0;
+  display: none;
+}
+
+
 /* Spotlight */
 
 	.spotlight {
