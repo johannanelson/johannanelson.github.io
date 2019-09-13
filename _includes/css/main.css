@@ -319,7 +319,6 @@ section.tout {
     background: #fff;
 }
 
-
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;
@@ -436,12 +435,6 @@ footer .footer-below {
 .scroll-top .btn:focus {
     outline: 0;
 }
-
-/* #portfolio .mix {
-  padding: 0;
-  display: none;
-} */
-
 
 /* Spotlight */
 
@@ -794,7 +787,7 @@ footer .footer-below {
 			}
 
 		.wrapper.style2 {
-			background-color: #fffff;
+			background-color: #fff;
 		}
 
 		.wrapper.style3 {
